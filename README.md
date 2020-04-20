@@ -1,4 +1,4 @@
-# remote_screenshot_taker
+# remote-screenshot-taker
 Take screenshots remotely
 
 victim.py needs to be executed at victim's side.
