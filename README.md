@@ -6,8 +6,11 @@ Attacker will execute attacker.py
 Attacker will be able to take screenshots remotely, whenever he wants. Also this tool can be used to receive continuous remote screenshots with given time interval.
 
 Run it as:
-python victim.py (target machine)
-python attacker.py (your machine)
+
+on target/victim machine: python victim.py 
+
+on attacker machine: python attacker.py
+
 
 Dependency (at victim/target side):
 1. pyautogui
